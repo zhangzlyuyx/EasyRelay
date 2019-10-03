@@ -1,0 +1,8 @@
+S:\Projects\EasyRelay\EasyRelay\bin\Debug\netstandard2.0\EasyRelay.deps.json
+S:\Projects\EasyRelay\EasyRelay\bin\Debug\netstandard2.0\EasyRelay.dll
+S:\Projects\EasyRelay\EasyRelay\bin\Debug\netstandard2.0\EasyRelay.pdb
+S:\Projects\EasyRelay\EasyRelay\obj\Debug\netstandard2.0\EasyRelay.csprojAssemblyReference.cache
+S:\Projects\EasyRelay\EasyRelay\obj\Debug\netstandard2.0\EasyRelay.AssemblyInfoInputs.cache
+S:\Projects\EasyRelay\EasyRelay\obj\Debug\netstandard2.0\EasyRelay.AssemblyInfo.cs
+S:\Projects\EasyRelay\EasyRelay\obj\Debug\netstandard2.0\EasyRelay.dll
+S:\Projects\EasyRelay\EasyRelay\obj\Debug\netstandard2.0\EasyRelay.pdb
